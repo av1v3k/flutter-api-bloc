@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter-api-bloc
+
+Flutter API request and Bloc Pattern
+https://www.youtube.com/watch?v=MMq4wkeHkPc
